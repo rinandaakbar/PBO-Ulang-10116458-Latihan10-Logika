@@ -7,7 +7,9 @@ package pbo.ulang.pkg10116458.latihan10.logika;
 
 /**
  *
- * @author nanda
+ * @author 
+ * NAMA     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
  */
 public class PBOUlang10116458Latihan10Logika {
 
